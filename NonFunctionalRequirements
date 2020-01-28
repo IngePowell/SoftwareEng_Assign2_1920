@@ -1,0 +1,6 @@
+Please add your non-functional requirements in the following style
+
+Requirement ID: NFR001
+Requirement Title: Response Time
+Requirement Description: The system will respond within 0.5 seconds to the user.
+Initials: KF
