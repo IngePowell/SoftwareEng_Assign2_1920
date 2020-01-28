@@ -1,0 +1,6 @@
+Please add your example functional requirements below in the following format
+
+Requirement_ID:FR001
+Requirement Title: Paying with a credit card
+Requirement Description: The new system will allow the user to pay with a credit card.  An external banking plugin will be used to process the payment.
+Initials: KF
