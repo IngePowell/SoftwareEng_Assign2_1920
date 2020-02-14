@@ -4,3 +4,19 @@ Requirement ID: NFR001
 Requirement Title: Response Time
 Requirement Description: The system will respond within 0.5 seconds to the user.
 Initials: KF
+
+
+Requirement ID: NFR01
+Requirement Title:  Protecting Data
+Requirement Description: Patient data and private information is kept securely
+Initials: ER
+
+Requirement ID: NFR02
+Requirement Title: Reliable System
+Requirement Description: System is kept online at all times, or with as little downtime as possible
+Initials: ER
+
+Requirement ID: NFR03
+Requirement Title: Errors 
+Requirement Description: The system should keep a log of all mistakes and errors, to allow for easy maintainability by engineers. 
+Initials: ER
