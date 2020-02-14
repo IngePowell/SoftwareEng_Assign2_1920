@@ -20,3 +20,18 @@ Requirement ID: NFR003
 Requirement Title: Errors 
 Requirement Description: The system should keep a log of all mistakes and errors, to allow for easy maintainability by engineers. 
 Initials: ER
+
+Requirement ID: NFR004
+	Requirement Title: Capacity
+	Requirement Description: The system will need to support 4 people at once.
+	Initials: NA
+	
+Requirement ID: NFR005
+	Requirement Title: Back up 
+	Requirement Description: The system will offer the efficiency for data back-up.
+	Initials: NA
+
+Requirement ID: NFR006
+	Requirement Title: Availability  
+	Requirement Description: The system will be available all the time. 
+	Initials: NA
