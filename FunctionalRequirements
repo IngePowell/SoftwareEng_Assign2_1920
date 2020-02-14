@@ -27,8 +27,8 @@ Requirement Description: The new system must allow the surgery to create new pat
 Initials: EPE
 
 Requirement_ID:FR005
-Requirement Title: All users to have an account and password for the system. Any tabs or buttons that they do not have access to need to be invisible or not enabled.
-Requirement Description: The new system must allow for users to be able to log in with their username and password. Depending on their role at the surgery, the users will have different levels of access.
+Requirement Title: Change an appointment, change the day, time or doctor for a particular patient.
+Requirement Description: The new system must allow for the surgery to edit an appointment. This can be by changing the day, the time, or the doctor that has been assigned to the appointment.
 Initials: EPE
 
 Requirement_ID:FR006
