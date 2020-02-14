@@ -19,37 +19,23 @@ Initials: ER
 Requirement_ID: FR003
 Requirement Title: Create new patient record
 Requirement Description: Create a new patient record, including name, address, date of birth and a notes field for any additional information.  Automatically assign a patient record number. Only available to Receptionist.
-Initials: ER
+Initials: ER, EPE, NA
 
 Requirement_ID:FR004
-Requirement Title: Create a new patient record: record name, address, dob, notes field for any additional information. Automatically assign a patient record number
-Requirement Description: The new system must allow the surgery to create new patient records when a new patient comes to the surgery. It must then assign a patient record number to that patient
-Initials: EPE
-
-Requirement_ID:FR005
 Requirement Title: Change an appointment, change the day, time or doctor for a particular patient.
 Requirement Description: The new system must allow for the surgery to edit an appointment. This can be by changing the day, the time, or the doctor that has been assigned to the appointment.
 Initials: EPE
 
-Requirement_ID:FR006
+Requirement_ID:FR005
 Requirement Title: Making an appointment for a patient to see one of the doctors.
 Requirement Description: The new system must allow for the receptionist to create an appointment for a patient to see one of the doctors. The receptionist will create them on the system after a patient contact via phone or in person
-Initials: EPE
+Initials: EPE, NA
 
-Requirement_ID:FR007
+Requirement_ID:FR006
 Requirement Title: Log in  
 Requirement Description: The new system will allow user to log in with their personal account and password. Any tabs or buttons that they do not have access to need to be invisible or not enabled.
 Initials: NA
 
-Requirement_ID:FR008
-Requirement Title: Create new patient record
-Requirement Description: The new system will allow receptionist to create a new patient record. Patient record number will be automatically assigned.
-Initials: NA
-
-Requirement_ID:FR009
-Requirement Title: Make an appointment for a patient
-Requirement Description: The new system will allow receptionist to create an appointment for a patient to see one of the doctors. 
-Initials: NA
 
 
 
