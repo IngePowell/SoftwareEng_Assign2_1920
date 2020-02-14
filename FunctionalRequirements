@@ -21,17 +21,17 @@ Requirement Title: Create new patient record
 Requirement Description: Create a new patient record, including name, address, date of birth and a notes field for any additional information.  Automatically assign a patient record number. Only available to Receptionist.
 Initials: ER
 
-Requirement_ID:FR005
+Requirement_ID:FR004
 Requirement Title: Create a new patient record: record name, address, dob, notes field for any additional information. Automatically assign a patient record number
 Requirement Description: The new system must allow the surgery to create new patient records when a new patient comes to the surgery. It must then assign a patient record number to that patient
 Initials: EPE
 
-Requirement_ID:FR006
+Requirement_ID:FR005
 Requirement Title: All users to have an account and password for the system. Any tabs or buttons that they do not have access to need to be invisible or not enabled.
 Requirement Description: The new system must allow for users to be able to log in with their username and password. Depending on their role at the surgery, the users will have different levels of access.
 Initials: EPE
 
-Requirement_ID:FR007
+Requirement_ID:FR006
 Requirement Title: Making an appointment for a patient to see one of the doctors.
 Requirement Description: The new system must allow for the receptionist to create an appointment for a patient to see one of the doctors. The receptionist will create them on the system after a patient contact via phone or in person
 Initials: EPE
