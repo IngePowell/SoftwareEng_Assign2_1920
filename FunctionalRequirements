@@ -38,7 +38,7 @@ Initials: EPE
 
 Requirement_ID:FR007
 Requirement Title: Log in  
-Requirement Description: The new system will allow user to log in with their personal account and password.
+Requirement Description: The new system will allow user to log in with their personal account and password. Any tabs or buttons that they do not have access to need to be invisible or not enabled.
 Initials: NA
 
 Requirement_ID:FR008
