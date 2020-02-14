@@ -8,13 +8,13 @@ Initials: KF
 
 Requirement ID: NFR001
 Requirement Title:  Protecting Data
-Requirement Description: Patient data and private information is kept securely
-Initials: ER
+Requirement Description: Patient data and private information is kept securely this will prevent the surgery from breaching data protection.
+Initials: ER , EPE
 
 Requirement ID: NFR002
 Requirement Title: Reliable System
 Requirement Description: System is kept online at all times, or with as little downtime as possible
-Initials: ER
+Initials: ER, NA
 
 Requirement ID: NFR003
 Requirement Title: Errors 
@@ -30,23 +30,13 @@ Requirement ID: NFR005
 Requirement Title: Back up 
 Requirement Description: The system will offer the efficiency for data back-up.
 Initials: NA
-
-Requirement ID: NFR006
-Requirement Title: Availability  
-Requirement Description: The system will be available all the time. 
-Initials: NA
 	
-Requirement ID: NFR007
-Requirement Title: Protecting Data
-Requirement Description: The system must ensure that the data it holds is protected at all costs, to prevent the surgery from breaching the data protection act.
-Initials: EPE
-
-Requirement ID: NFR008
+Requirement ID: NFR006
 Requirement Title: Usability
 Requirement Description: The system must not be too difficult to learn and operate for the staff members at the surgery.
 Initials: EPE
 
-Requirement ID: NFR009
+Requirement ID: NFR007
 Requirement Title: Accessibility 
 Requirement Description: The system must be accessible to a wide range of users. For example, one staff member may not have perfect vision so font size must be sufficient. Another user may suffer from colour blindness, so selecting the right colour combinations is important. 
 Initials: EPE
