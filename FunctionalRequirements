@@ -4,3 +4,19 @@ Requirement_ID:FR001
 Requirement Title: Paying with a credit card
 Requirement Description: The new system will allow the user to pay with a credit card.  An external banking plugin will be used to process the payment.
 Initials: KF
+
+
+Requirement_ID: FR001
+Requirement Title: Register arrival of a patient
+Requirement Description: The system will allow the user to confirm the attendance of a patient for their appointment. Only accessible to the Doctor or Receptionist.
+Initials: ER
+
+Requirement_ID: FR002
+Requirement Title: View report of all appointments
+Requirement Description: View a report of all booked appointments for all doctors in the surgery. Only accessible for the Practice Manager.
+Initials: ER
+
+Requirement_ID: FR003
+Requirement Title: Create new patient record
+Requirement Description: Create a new patient record, including name, address, date of birth and a notes field for any additional information.  Automatically assign a patient record number. Only available to Receptionist.
+Initials: ER
