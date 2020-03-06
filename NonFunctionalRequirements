@@ -56,3 +56,15 @@ Requirement Title: Documentation
 Requirement Description: Users must be informed about The Computer Misuse Act (CMA) 1990 and other important aspects of handling data.
 Initials: TJN
 	
+Requirement ID: NFR011
+Requirement Title: Accountability
+Requirement Description: Any attempts to view and change data in the system must be logged to ensure that users can be held accountable for misconduct.
+Initials: AG
+
+Requirement ID: NFR012
+Requirement Title: Compliance
+Requirement Description: The system and its data must be GDPR compliant.
+
+Requirement ID: NFR013
+Requirement Title: Security
+Requirement Description: The system must make use of Smartcard and Biometric authentication so existing keycards can be used to authenticate with the system.
