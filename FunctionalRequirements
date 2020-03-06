@@ -36,6 +36,20 @@ Requirement Title: Log in
 Requirement Description: The new system will allow user to log in with their personal account and password. Any tabs or buttons that they do not have access to need to be invisible or not enabled.
 Initials: NA
 
+Requirement_ID:FR007
+Requirement Title: View Records  
+Requirement Description: A simple look-up of patient's details should be available to the Practice Manager, a doctor and a receptionist.
+Initials: TJN
 
+Requirement_ID:FR008
+Requirement Title: Cancel Appointment  
+Requirement Description: An appointment should be able to be cancelled by a doctor or receptionist.
+Initials: TJN
+
+
+Requirement_ID:FR009
+Requirement Title: View all appointments for a particular doctor  
+Requirement Description: A list of all appointments for a particular doctor can be made by a doctor or receptionist.
+Initials: TJN
 
 
