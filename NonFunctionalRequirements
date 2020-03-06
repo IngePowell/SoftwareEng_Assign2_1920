@@ -40,4 +40,19 @@ Requirement ID: NFR007
 Requirement Title: Accessibility 
 Requirement Description: The system must be accessible to a wide range of users. For example, one staff member may not have perfect vision so font size must be sufficient. Another user may suffer from colour blindness, so selecting the right colour combinations is important. 
 Initials: EPE
+
+Requirement ID: NFR008
+Requirement Title: Documentation
+Requirement Description: The system must come with sufficient documentation, especially regarding user manuals.
+Initials: TJN
+
+Requirement ID: NFR009
+Requirement Title: Documentation
+Requirement Description: The system must come with the contact information of the support team, for the client's to use in the case of crashes and other errors.
+Initials: TJN
+
+Requirement ID: NFR010
+Requirement Title: Documentation
+Requirement Description: Users must be informed about The Computer Misuse Act (CMA) 1990 and other important aspects of handling data.
+Initials: TJN
 	
