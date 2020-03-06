@@ -5,7 +5,7 @@ Requirement Title: Paying with a credit card
 Requirement Description: The new system will allow the user to pay with a credit card.  An external banking plugin will be used to process the payment.
 Initials: KF
 
-
+---------------------
 Requirement_ID: FR001
 Requirement Title: Register arrival of a patient
 Requirement Description: The system will allow the user to confirm the attendance of a patient for their appointment. Only accessible to the Doctor or Receptionist.
@@ -46,10 +46,11 @@ Requirement Title: Cancel Appointment
 Requirement Description: An appointment should be able to be cancelled by a doctor or receptionist.
 Initials: TJN
 
-
 Requirement_ID:FR009
 Requirement Title: View all appointments for a particular doctor  
 Requirement Description: A list of all appointments for a particular doctor can be made by a doctor or receptionist.
 Initials: TJN
+
+
 
 
