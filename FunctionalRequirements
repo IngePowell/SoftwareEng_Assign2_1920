@@ -51,6 +51,17 @@ Requirement Title: View all appointments for a particular doctor
 Requirement Description: A list of all appointments for a particular doctor can be made by a doctor or receptionist.
 Initials: TJN
 
+Requirement_ID:FR010
+Requirement Title: Updating Records
+Requirements Description: Existing records in the system should be able to be updated. Only the same level of access that created them record can update it.
+Initials: AG
 
+Requirement_ID:FR011
+Requirement Title: Specifiy Availability of Doctor
+Requirement Description: A doctor should be able to enter periods of time that they are unavailable to take appointments. It should therefore not be possible to book an appointment with a doctor who is not available for that time and date.
+Initials: AG
 
-
+Requirement_ID:FR012
+Requirement Title: Doctor Cost Reporting
+Requirement Description: An automatically generated report should be able to be generated showing the running costs of each doctor.
+Initials: AG
