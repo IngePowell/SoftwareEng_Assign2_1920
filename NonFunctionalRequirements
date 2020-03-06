@@ -64,7 +64,9 @@ Initials: AG
 Requirement ID: NFR012
 Requirement Title: Compliance
 Requirement Description: The system and its data must be GDPR compliant.
+Initials: AG
 
 Requirement ID: NFR013
 Requirement Title: Security
 Requirement Description: The system must make use of Smartcard and Biometric authentication so existing keycards can be used to authenticate with the system.
+Initials: AG
