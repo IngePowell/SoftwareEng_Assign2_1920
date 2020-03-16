@@ -65,3 +65,18 @@ Requirement_ID:FR012
 Requirement Title: Doctor Cost Reporting
 Requirement Description: A report should be able to be automatically generated showing the running costs of each doctor.
 Initials: AG
+
+Requirement_ID:FR013
+Requirement Title: Doctor Prescription Report
+Requirement Description: A report that lists all prescriptions handed out for a specific doctor each day.
+Initials: CR
+
+Requirement_ID:FR014
+Requirement Title: Record of Room used
+Requirement Description: A report that lists all date and times that a room within the surgery has been used and by which doctor.
+Initials: CR
+
+Requirement_ID:FR015
+Requirement Title: Record of all running medications prescribed to a patient
+Requirement Description: A report that lists all prescriptions a patient currentlty recieves. 
+Initials: CR
