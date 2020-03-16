@@ -86,3 +86,18 @@ Requirement Title: Data integrity
 Requirement Description: Only certain login users can write to database and some read access only. 
 Initials: JB
 
+Requirement ID: NFR017
+Requirement Title: Robustness
+Requirement Description: System able to cope with errors entered within the database.
+Initials: CR
+
+Requirement ID: NFR018
+Requirement Title: Disaster Recovery
+Requirement Description: System continuously saves work in order to prevent loss of data.
+Initials: CR
+
+Requirement ID: NFR019
+Requirement Title: Stability
+Requirement Description: System uses a set of rules/guidlines in order to gather useful data only.
+Initials: CR
+
