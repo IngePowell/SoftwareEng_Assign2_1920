@@ -82,4 +82,18 @@ Requirement Title: Record of all running medications prescribed to a patient
 Requirement Description: A report that lists all prescriptions a patient currentlty recieves. 
 Initials: CR
 
+Requirement_ID:FR016
+Requirement Title: Ability to book doctor home visits and admin time.
+Requirement Description: Doctors can schedule time slots to visit outside the surgery and admin time for themselves.
+Initials: JB
+
+Requirement_ID:FR017
+Requirement Title: Could interact with a display system 
+Requirement Description: A TV or screen in the waiting room of the surgery to alert patients the doctor is ready to see them.
+Initials: JB
+
+Requirement_ID:FR018
+Requirement Title: See all patient medical histories
+Requirement Description: Viewable all patient history and prior surgeries etc. 
+Initials: JB
 
