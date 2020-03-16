@@ -26,6 +26,7 @@ Requirement Title: Change an appointment, change the day, time or doctor for a p
 Requirement Description: The new system must allow for the surgery to edit an appointment. This can be by changing the day, the time, or the doctor that has been assigned to the appointment.
 Initials: EPE
 
+
 Requirement_ID:FR005
 Requirement Title: Making an appointment for a patient to see one of the doctors.
 Requirement Description: The new system must allow for the receptionist to create an appointment for a patient to see one of the doctors. The receptionist will create them on the system after a patient contact via phone or in person
@@ -80,3 +81,5 @@ Requirement_ID:FR015
 Requirement Title: Record of all running medications prescribed to a patient
 Requirement Description: A report that lists all prescriptions a patient currentlty recieves. 
 Initials: CR
+
+
