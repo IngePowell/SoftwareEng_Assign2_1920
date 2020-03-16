@@ -70,3 +70,19 @@ Requirement ID: NFR013
 Requirement Title: Security
 Requirement Description: The system must make use of Smartcard and Biometric authentication so existing keycards can be used to authenticate with the system.
 Initials: AG
+
+Requirement ID: NFR014
+Requirement Title: Database/API/GUI
+Requirement Description: Database held on cloud server and accessed via API to GUI Web app front end.
+Initials: JB
+
+Requirement ID: NFR015
+Requirement Title: Security
+Requirement Description: Secure cloud server hosting.
+Initials: JB
+
+Requirement ID: NFR016
+Requirement Title: Data integrity
+Requirement Description: Only certain login users can write to database and some read access only. 
+Initials: JB
+
